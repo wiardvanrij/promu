@@ -1,4 +1,4 @@
-module github.com/prometheus/promu
+module github.com/wiardvanrij/promu
 
 require (
 	github.com/Masterminds/semver v1.5.0
